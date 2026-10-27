@@ -1,4 +1,4 @@
-# IMAGO OER Evaluation Rubric
+# OER Evaluation Rubric
 
 Oct 27, 2026 · @HA Stevies
 
